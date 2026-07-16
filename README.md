@@ -34,3 +34,4 @@
 * Solve basic computer problems at Angel's Therapy Center
 * Create "Hello, World!"
 * Optimize nested loop into O(1)
+* Read Grand Blue in public place
