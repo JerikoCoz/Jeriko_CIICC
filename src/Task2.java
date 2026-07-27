@@ -6,7 +6,7 @@ class Task2{
         byte num1 = 0;
         float point = 2.0f;
         boolean check = true;
-        String output = single + num3 + num2 + " " + "w" + num1 + "rld" + " " + point + " " + check;
+        String output = single +""+ num3 + ""+ num2 + " " + "w" + num1 + "rld" + " " + point + " " + check;
         System.out.println(output);
     }
 }
